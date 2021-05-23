@@ -1,0 +1,42 @@
+.absolute-center {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bg-grey {
+    background-color: #E7E7E7;
+}
+
+html {
+    /* height of sticky header */
+    scroll-padding-top: 67.6px;
+    /* the page will scroll smoothly when nav-link is clicked */
+    scroll-behavior: smooth;
+}
+
+.form-control {
+    width: auto;
+}
+
+
+
+
+
+
+.show {
+    display: block;
+}
+
+.hide {
+    display: none;
+}
+
+
+
+
+
+
+
+

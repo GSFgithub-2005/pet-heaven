@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Protected Site"
-AuthUserFile pet-heaven/.htpasswd.txt
-require valid-user
